@@ -1,17 +1,17 @@
 {
   "name": "ember-cli-qunit-eslint",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Adds ESLint linting to the Ember QUnit test suite",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
   "scripts": {},
-  "repository": "",
+  "repository": "https://github.com/martndemus/ember-cli-qunit-eslint",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Marten Schilstra <mail@martenschilstra.nl>",
   "license": "MIT",
   "devDependencies": {
     "ember-cli": "1.13.8"
