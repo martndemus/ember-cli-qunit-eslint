@@ -22,6 +22,7 @@
   "dependencies": {
     "babel-eslint": "^4.1.4",
     "broccoli-lint-eslint": "^1.1.1",
+    "globals": "^8.15.0",
     "js-string-escape": "^1.0.0"
   },
   "ember-addon": {
