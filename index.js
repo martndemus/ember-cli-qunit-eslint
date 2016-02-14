@@ -26,6 +26,11 @@ function testGenerator(relativePath, errors) {
 
 module.exports = {
   name: 'ember-cli-qunit-eslint',
+  
+  // instructs ember-cli-qunit and ember-cli-mocha to
+  // disable their lintTree implementations (which use JSHint)
+  isDefaultJSLinter: true,
+  
   lintTree: function(type, tree) {
     return eslint(tree, { testGenerator: testGenerator });
   }
