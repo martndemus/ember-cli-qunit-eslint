@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-qunit-eslint",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Adds ESLint linting to the Ember QUnit test suite",
   "directories": {
     "doc": "doc",
