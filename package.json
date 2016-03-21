@@ -20,8 +20,8 @@
     "ember-addon"
   ],
   "dependencies": {
-    "babel-eslint": "^4.1.4",
-    "broccoli-lint-eslint": "^1.1.1",
+    "babel-eslint": "^6.0.0-beta.6",
+    "broccoli-lint-eslint": "^2.0.1",
     "globals": "^8.15.0",
     "js-string-escape": "^1.0.0"
   },
