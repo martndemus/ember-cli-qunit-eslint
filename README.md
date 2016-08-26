@@ -1,4 +1,4 @@
-# ember-cli-qunit-eslint
+# ember-cli-qunit-eslint (DEPRECATED, use ember-cli-eslint)
 
 Adds ESLint linting to the Ember QUnit test suite.
 
